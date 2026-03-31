@@ -1,0 +1,17 @@
+=== Ringkasan Statistik Nilai Ujian ===
+Rata-rata: 51.19
+Median: 46.30
+Standar Deviasi: 26.99
+Nilai Minimum: 11.85
+Nilai Maximum: 97.29
+
+=== Ringkasan DataFrame ===
+Jumlah Baris: 5
+Jumlah LULUS: 2
+Jumlah TIDAK LULUS: 3
+
+=== Ringkasan GradeBook ===
+Jumlah Data: 5
+Rata-rata Nilai: 60.61
+Persentase Lulus: 40.00%
+
